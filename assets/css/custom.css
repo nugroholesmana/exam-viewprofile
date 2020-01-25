@@ -1,0 +1,60 @@
+body{
+    background:#fafafa;
+}
+label{
+    font-weight: 500;
+}
+h1{
+    font-size: 2rem;
+}
+a{
+    color: #FFB000;
+}
+a:hover{
+    color:#d49405;
+}
+.info-account{
+    line-height: 1;
+}
+.header{
+    height: 60px;
+    background: #ffb000;
+    box-shadow: 1px 1px 2px #c18500;
+}
+
+.title-information{
+    border-bottom: 1px solid #f3f3f3;
+    padding:10px 0px;
+    margin-bottom: 10px;
+}
+
+/* Bootstrap Custom */
+.btn{
+    padding: .100rem .40rem !important;
+}
+.btn-primary{
+    background:#FFB000;
+    border-color: #FFB000;
+}
+.btn-primary:hover,
+.btn-primary:active{
+    background:#d49405 !important;
+    border-color: #d49405 !important;
+}
+.btn-primary:focus{
+    box-shadow: unset;
+}
+.breadcrumb{
+    background:#fff !important;
+    box-shadow: 1px 1px 1px #d0d0d0;
+}
+.bg-light{
+    background-color: #ffb000 !important;
+}
+.navbar-brand{
+    color:#fff !important;
+}
+.card{
+    box-shadow: 1px 1px 1px #d0d0d0;
+    border:unset;
+}
